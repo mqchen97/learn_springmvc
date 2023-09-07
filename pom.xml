@@ -12,6 +12,7 @@
         <module>springmvc-base-01</module>
         <module>springmvc-base-02</module>
         <module>springmvc-restful-03</module>
+        <module>springmvc-other-04</module>
     </modules>
 
     <properties>
